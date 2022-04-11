@@ -12,3 +12,4 @@ hello world
 hello world	master test
 hot-fix		hot-fix test
 wangye xiu gai
+ssh test
